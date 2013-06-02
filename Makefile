@@ -1,4 +1,4 @@
-codes.csv:
+codes.csv: codes.html
 	python extract.py codes.html > codes.csv
 
 codes.html:
