@@ -12,7 +12,7 @@ plural_map = {
     'city, village,...': 'cities or villages',
     'road, railroad': 'roads or railroads',
     'spot, building, farm': 'spots, buildings, or farms',
-    'mountain,hill,rock,... ': 'mountains, hills, or rocky areas',
+    'mountain,hill,rock,...': 'mountains, hills, or rocky areas',
     'undersea': 'undersea areas',
     'forest,heath,...': 'forests or areas of vegetation',
 }
